@@ -44,7 +44,7 @@ Google Drive Trigger
 Download Document
         │
         ▼
-OCR Extraction
+OCR API converts scanned PDFs into machine-readable text before AI processing.
         │
         ▼
 Prepare OCR Text
