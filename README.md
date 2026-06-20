@@ -207,7 +207,7 @@ An engineer focused on building AI-powered business automation systems that stre
 
 ---
 
-## Portfolio Project
+## Case Study
 
 Results
 
