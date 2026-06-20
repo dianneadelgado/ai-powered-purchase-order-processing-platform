@@ -1,7 +1,5 @@
 ## Overview
 
-An AI-powered document processing workflow built with n8n, Ollama, OCR, PostgreSQL, Google Drive, Gmail, and Google Sheets.
-
 The system automatically monitors incoming documents, extracts structured information using OCR and a local LLM, validates the extracted data, notifies reviewers when issues are detected, and exports approved records into business systems.
 
 ---
