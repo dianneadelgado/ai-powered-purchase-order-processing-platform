@@ -211,13 +211,12 @@ An engineer focused on building AI-powered business automation systems that stre
 
 ## Portfolio Project
 
-This project demonstrates:
+Results
 
-* Workflow Automation
-* AI Integration
-* OCR Processing
-* Data Validation
-* Business Process Automation
-* Human-in-the-Loop Review Systems
-* Docker-Based Deployment
-* Local LLM Integration
+✓ Automated document intake
+✓ Reduced manual data entry
+✓ Structured data extraction
+✓ Human review for exceptions
+✓ Export-ready business records
+✓ End-to-end workflow orchestration
+
