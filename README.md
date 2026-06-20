@@ -118,12 +118,6 @@ Exports approved data to:
 
 ---
 
-## Technology Stack
-
-### Automation
-
-* n8n
-
 ### AI
 
 * Ollama
@@ -209,9 +203,9 @@ Extract key metadata and flag missing information for review.
 
 ## Author
 
-Hu
+Dianne Delgado
 
-Engineer focused on building AI-powered business automation systems that streamline operations and reduce manual work.
+An engineer focused on building AI-powered business automation systems that streamline operations and reduce manual work.
 
 ---
 
