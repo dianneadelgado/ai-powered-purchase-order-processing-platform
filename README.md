@@ -1,6 +1,7 @@
 ## Overview
 
 The system automatically monitors incoming purchase orders, invoices, and business documents, extracts structured information using OCR and a local LLM, validates the extracted data against business rules, routes exceptions for human review, and exports approved records into ERP systems for downstream accounting, procurement, and financial operations.
+
 ---
 
 ## Business Problem
